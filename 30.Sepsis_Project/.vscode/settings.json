@@ -1,0 +1,7 @@
+{
+  // 悬停显示包类别与元数据
+  "python.languageServer": "Pylance",
+  "python.analysis.autoImportCompletions": true,
+  "package-info.enabled": true,
+  "package-info.badges": ["author", "version", "description", "license"]
+}
